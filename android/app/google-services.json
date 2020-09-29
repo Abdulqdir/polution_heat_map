@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "134051875034",
+    "firebase_url": "https://pollution-heat-map.firebaseio.com",
+    "project_id": "pollution-heat-map",
+    "storage_bucket": "pollution-heat-map.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134051875034:android:ce276083e5bf7a9d983de3",
+        "android_client_info": {
+          "package_name": "iabdulqa.polutionheatmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134051875034-cqpc2mdd8rt59m71ohgkebqrd692i3i5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "iabdulqa.polutionheatmap",
+            "certificate_hash": "69a0f0c009588a9d1ab3fa706c599c078ca5f42b"
+          }
+        },
+        {
+          "client_id": "134051875034-jdv5uq9bp2c7hqg8npbq91jp7sfc86ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTaX8tZ_rTIOI1toj2V1qNby6ytABTGFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134051875034-jdv5uq9bp2c7hqg8npbq91jp7sfc86ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
