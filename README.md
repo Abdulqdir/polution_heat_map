@@ -1,16 +1,6 @@
 # polutionheatmap
 
-A new Flutter application.
+o	Built a front-end application using Flutter development platform. The application has a Google Maps screen and a sign in and sign up page where users are able to login into their existing account or create a new user.
+o	Users can track waste nearby by placing and viewing marks on the map, which indicate that there’s waste on the marked location.
+o	Used Google Map APIs to integrate Google Maps services into the app and used Firebase to authenticate users
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
